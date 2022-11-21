@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.41a4ac52.css",
-    "main.js": "/portfolio-react/static/js/main.6274f5db.js",
+    "main.css": "/portfolio-react/static/css/main.50959350.css",
+    "main.js": "/portfolio-react/static/js/main.71a9ed26.js",
     "static/media/movie_madness.png": "/portfolio-react/static/media/movie_madness.0829c95438e423298b0d.png",
     "static/media/me.JPG": "/portfolio-react/static/media/me.5de04ce7583e6cbed491.JPG",
     "static/media/team_profile_generate.png": "/portfolio-react/static/media/team_profile_generate.88616124264e4fd4d4ff.png",
@@ -12,11 +12,11 @@
     "static/media/handy_note_taker.png": "/portfolio-react/static/media/handy_note_taker.f37b16a97bedb6c5902f.png",
     "static/media/7156610_linkedin_social_media_icon.png": "/portfolio-react/static/media/7156610_linkedin_social_media_icon.ca452a9705f504d7bafc.png",
     "index.html": "/portfolio-react/index.html",
-    "main.41a4ac52.css.map": "/portfolio-react/static/css/main.41a4ac52.css.map",
-    "main.6274f5db.js.map": "/portfolio-react/static/js/main.6274f5db.js.map"
+    "main.50959350.css.map": "/portfolio-react/static/css/main.50959350.css.map",
+    "main.71a9ed26.js.map": "/portfolio-react/static/js/main.71a9ed26.js.map"
   },
   "entrypoints": [
-    "static/css/main.41a4ac52.css",
-    "static/js/main.6274f5db.js"
+    "static/css/main.50959350.css",
+    "static/js/main.71a9ed26.js"
   ]
 }
