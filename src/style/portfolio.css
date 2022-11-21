@@ -1,0 +1,29 @@
+/* set styling for the input form */
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly
+  
+}
+
+.card {  
+  margin-top: 15px;
+  margin-left: 35px;
+  margin-right: 15px;  
+}
+.card-title {  
+  margin-bottom: 15px; 
+}
+
+
+
+.form textarea {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+label {
+  margin-top: 15px;
+}
