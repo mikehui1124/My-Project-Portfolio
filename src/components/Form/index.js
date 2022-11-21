@@ -1,12 +1,11 @@
 import React, { useState } from 'react';
 import './style.css';
 
-// Here we import a helper functions that will check if the email is valid
+// We import a helper functions that will check if the email is valid
 import { validateEmail } from '../../utils/helpers';
 
 function Form() {
   // Create state variables for the fields in the form
-  // We are also setting their initial values to an empty string
   const [email, setEmail] = useState('');
   const [name, setName] = useState('');
   const [message, setMessage] = useState('');
@@ -14,7 +13,7 @@ function Form() {
 
   const handleInputChange = (e) => {
     // Getting the value and name of the input ele which triggered the change
-    // e is the event of clicking an ele
+    // e is the event of clicking an element
     const { target } = e;
     const inputType = target.name;
     const inputValue = target.value;

@@ -27,9 +27,7 @@ function NavTabs({ currentPage, handlePageChange }) {
       marginBottom: '15px',
       backgroundColor: '#ffad33'
     }}
-    >
-
-    
+    >    
       <li className="nav-item">
         <a
           href="#aboutMe"
@@ -44,19 +42,19 @@ function NavTabs({ currentPage, handlePageChange }) {
       <li className="nav-item">
         <a
           href="#about"
-          onClick={() => handlePageChange('About')}
+          onClick={() => handlePageChange('Porfolio')}
           // Check to see if the currentPage is `About`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
-          className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Porfolio' ? 'nav-link active' : 'nav-link'}
         >
           Portfolio
         </a>
       </li>
       <li className="nav-item">
         <a
-          href="#blog"
-          onClick={() => handlePageChange('Blog')}
+          href="#contact"
+          onClick={() => handlePageChange('Contact')}
           // Check to see if the currentPage is `Blog`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
-          className={currentPage === 'Blog' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
         >
           Contact
         </a>
@@ -64,9 +62,9 @@ function NavTabs({ currentPage, handlePageChange }) {
       <li className="nav-item">
         <a
           href="#contact"
-          onClick={() => handlePageChange('Contact')}
+          onClick={() => handlePageChange('Resume')}
           // Check to see if the currentPage is `Contact`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
-          className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
         >
           Resume
         </a>
@@ -76,5 +74,4 @@ function NavTabs({ currentPage, handlePageChange }) {
     </div>
   );
 }
-
 export default NavTabs;

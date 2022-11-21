@@ -5,8 +5,6 @@ import image3 from '../asset/interact_tech_blog.png';
 import image4 from '../asset/team_profile_generate.png';
 import image5 from '../asset/password_generator.png';
 import image6 from '../asset/handy_note_taker.png';
-
-
 import '../../style/portfolio.css';
 
 export default function Portfolio() {
@@ -79,11 +77,7 @@ export default function Portfolio() {
               
             </div>
         </div>
-
-
-      </div>    
-  
-      
+      </div>        
     </div>
   );
 }
