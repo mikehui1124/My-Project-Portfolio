@@ -13,11 +13,11 @@ function Footer({ currentPage, handlePageChange }) {
       backgroundColor: '#ffc266',
       textAlign: 'center'
        }}>
-  
-       <a href='https://github.com/mikehui1124' >
+        <span>Get in touch@</span>
+       <a href='https://github.com/mikehui1124?tab=repositories' >
          <img src={image1} width='50' height = '50'/>
        </a>
-       <a href='https://www.linkedin.com' >
+       <a href='https://www.linkedin.com/in/fung-mike-hui-682792125/' >
          <img src={image2} width='50' height = '50'/>
        </a>
 
