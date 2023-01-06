@@ -28,7 +28,7 @@ export default function Portfolio() {
              
             <div className="card-body">    
               <h5 className="card-title">Digital Exercise Book</h5>         
-              <p>Deployed URL :<a href="https://immense-mountain-30351.herokuapp.com/" className="card-link">Visit Now 🙂</a></p>
+              <p>Deployed URL :<a href="https://thawing-refuge-84556.herokuapp.com/" className="card-link">Visit Now 🙂</a></p>
               <p>GitHub Repo :<a href="https://github.com/mikehui1124/digital_excercise_book" className="card-link">View Source Code 🙂</a></p>
               
             </div>
