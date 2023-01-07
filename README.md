@@ -2,6 +2,8 @@
 
 This is a JavaScript source-code for a personal application portfolio using React.js framework. It is built on the usual JavaScript/Node.js stack, allowing for optimized production build.
 
+'Portfolio' page is fully responsive that the card size changes according the the size of the viewport.
+
 The app will be using Express.js and Mongoose of NPM as dependency. The app will be invoked by using the following commands:
 “npm run start” to start the React application
 “npm run deploy” to create production build and deploy in designated GitHub repo
