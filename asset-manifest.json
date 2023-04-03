@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.50959350.css",
-    "main.js": "/portfolio-react/static/js/main.10c59314.js",
+    "main.js": "/portfolio-react/static/js/main.362f2bde.js",
     "static/media/movie_madness.png": "/portfolio-react/static/media/movie_madness.0829c95438e423298b0d.png",
     "static/media/me.JPG": "/portfolio-react/static/media/me.5de04ce7583e6cbed491.JPG",
     "static/media/team_profile_generate.png": "/portfolio-react/static/media/team_profile_generate.88616124264e4fd4d4ff.png",
     "static/media/swap_shop.JPG": "/portfolio-react/static/media/swap_shop.1f6e9cbf8b8150c26470.JPG",
     "static/media/book_search.JPG": "/portfolio-react/static/media/book_search.bd98a9fb6cad9564270c.JPG",
+    "static/media/landing_page.JPG": "/portfolio-react/static/media/landing_page.3cbe658409373f73ea62.JPG",
     "static/media/interact_tech_blog.png": "/portfolio-react/static/media/interact_tech_blog.122ac7807a9883852846.png",
     "static/media/weather_forecast.JPG": "/portfolio-react/static/media/weather_forecast.91beb5eb0db7d38d16d2.JPG",
     "static/media/note_taker.JPG": "/portfolio-react/static/media/note_taker.c3756a85f7ee18717f98.JPG",
@@ -18,10 +19,10 @@
     "static/media/7156610_linkedin_social_media_icon.png": "/portfolio-react/static/media/7156610_linkedin_social_media_icon.ca452a9705f504d7bafc.png",
     "index.html": "/portfolio-react/index.html",
     "main.50959350.css.map": "/portfolio-react/static/css/main.50959350.css.map",
-    "main.10c59314.js.map": "/portfolio-react/static/js/main.10c59314.js.map"
+    "main.362f2bde.js.map": "/portfolio-react/static/js/main.362f2bde.js.map"
   },
   "entrypoints": [
     "static/css/main.50959350.css",
-    "static/js/main.10c59314.js"
+    "static/js/main.362f2bde.js"
   ]
 }
