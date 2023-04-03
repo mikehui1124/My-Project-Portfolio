@@ -10,6 +10,7 @@ import image8 from '../asset/book_search.JPG';
 import image9 from '../asset/weather_forecast.JPG';
 import image10 from '../asset/javascript_quiz.JPG';
 import image11 from '../asset/note_taker.JPG';
+import image12 from '../asset/landing_page.JPG';
 import '../../style/portfolio.css';
 
 export default function Portfolio() {
@@ -17,6 +18,18 @@ export default function Portfolio() {
     <div>
       <h2>Portfolio</h2>
       <div className= "projects">
+
+        <div className="card" style={{width: '29rem'}}>
+            <img src={image12} className="card-img-top" alt="..."/>
+             
+            <div className="card-body">    
+              <h5 className="card-title">Chicago Crime Web Map</h5>         
+              <p>Deployed URL :<a href="https://mikehui1124.github.io/chicagoCrimeMap/" className="card-link">Visit Now 🙂</a></p>
+              <p>GitHub Repo :<a href="https://github.com/mikehui1124/chicagoCrimeMap" className="card-link">View Source Code 🙂</a></p>
+              
+            </div>
+        </div>
+
         <div className="card" style={{width: '29rem'}}>
             <img src={image1} className="card-img-top" alt="..."/>
              
