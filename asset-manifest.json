@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.50959350.css",
-    "main.js": "/portfolio-react/static/js/main.bf96fe0e.js",
+    "main.js": "/portfolio-react/static/js/main.54455c1f.js",
     "static/media/movie_madness.png": "/portfolio-react/static/media/movie_madness.0829c95438e423298b0d.png",
     "static/media/me.JPG": "/portfolio-react/static/media/me.5de04ce7583e6cbed491.JPG",
+    "static/media/01.png": "/portfolio-react/static/media/01.3fa89d6712c71e5459f1.png",
     "static/media/team_profile_generate.png": "/portfolio-react/static/media/team_profile_generate.88616124264e4fd4d4ff.png",
     "static/media/swap_shop.JPG": "/portfolio-react/static/media/swap_shop.1f6e9cbf8b8150c26470.JPG",
     "static/media/book_search.JPG": "/portfolio-react/static/media/book_search.bd98a9fb6cad9564270c.JPG",
@@ -19,10 +20,10 @@
     "static/media/7156610_linkedin_social_media_icon.png": "/portfolio-react/static/media/7156610_linkedin_social_media_icon.ca452a9705f504d7bafc.png",
     "index.html": "/portfolio-react/index.html",
     "main.50959350.css.map": "/portfolio-react/static/css/main.50959350.css.map",
-    "main.bf96fe0e.js.map": "/portfolio-react/static/js/main.bf96fe0e.js.map"
+    "main.54455c1f.js.map": "/portfolio-react/static/js/main.54455c1f.js.map"
   },
   "entrypoints": [
     "static/css/main.50959350.css",
-    "static/js/main.bf96fe0e.js"
+    "static/js/main.54455c1f.js"
   ]
 }
