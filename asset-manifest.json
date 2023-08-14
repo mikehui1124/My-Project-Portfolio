@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.50959350.css",
-    "main.js": "/portfolio-react/static/js/main.54455c1f.js",
+    "main.js": "/portfolio-react/static/js/main.385a6fd4.js",
     "static/media/movie_madness.png": "/portfolio-react/static/media/movie_madness.0829c95438e423298b0d.png",
     "static/media/me.JPG": "/portfolio-react/static/media/me.5de04ce7583e6cbed491.JPG",
     "static/media/01.png": "/portfolio-react/static/media/01.3fa89d6712c71e5459f1.png",
@@ -15,15 +15,16 @@
     "static/media/digital exercise book.JPG": "/portfolio-react/static/media/digital exercise book.95e07114a6e8f4b8a236.JPG",
     "static/media/javascript_quiz.JPG": "/portfolio-react/static/media/javascript_quiz.df149aa3b6d38a45dfb0.JPG",
     "static/media/password_generator.png": "/portfolio-react/static/media/password_generator.6223779c2bf2c18f3b81.png",
+    "static/media/userLogin_1.JPG": "/portfolio-react/static/media/userLogin_1.f00c6c8ac5ad74c9bb9b.JPG",
     "static/media/6214715_github_logo_icon.png": "/portfolio-react/static/media/6214715_github_logo_icon.6c26bafc9402f60134ad.png",
     "static/media/handy_note_taker.png": "/portfolio-react/static/media/handy_note_taker.f37b16a97bedb6c5902f.png",
     "static/media/7156610_linkedin_social_media_icon.png": "/portfolio-react/static/media/7156610_linkedin_social_media_icon.ca452a9705f504d7bafc.png",
     "index.html": "/portfolio-react/index.html",
     "main.50959350.css.map": "/portfolio-react/static/css/main.50959350.css.map",
-    "main.54455c1f.js.map": "/portfolio-react/static/js/main.54455c1f.js.map"
+    "main.385a6fd4.js.map": "/portfolio-react/static/js/main.385a6fd4.js.map"
   },
   "entrypoints": [
     "static/css/main.50959350.css",
-    "static/js/main.54455c1f.js"
+    "static/js/main.385a6fd4.js"
   ]
 }
